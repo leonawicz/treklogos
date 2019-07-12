@@ -27,7 +27,7 @@ colors from a palette to be made by eye on an image by image basis.
 On both counts, handling near-black and near-white colors is inherently
 challenging given the file format and included visual effects.
 
-Here are a couple examples using one of the logos:
+Here are three examples using one of the logos for each palette type:
 
 ``` r
 library(imgpalr)
